@@ -22,7 +22,7 @@ on:
     types: [started]
 
 env:
-  REPO_URL: https://github.com/ happymukey/lede
+  REPO_URL: https://github.com/happymukey/lede
   REPO_BRANCH: mumu
   CONFIG_FILE: x86.config
   DIY_SH: diy.sh
