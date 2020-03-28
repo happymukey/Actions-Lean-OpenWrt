@@ -15,7 +15,7 @@ on:
     branches:
       - master
     paths:
-      - 'x86.config'
+      - '0328.config'
 #  schedule:
 #    - cron: 0 8 * * 5
   watch:
@@ -24,7 +24,7 @@ on:
 env:
   REPO_URL: https://github.com/happymukey/lede
   REPO_BRANCH: mumu
-  CONFIG_FILE: x86.config
+  CONFIG_FILE: 0328.config
   DIY_SH: diy.sh
   FREE_UP_DISK: false
   SSH_ACTIONS: false
