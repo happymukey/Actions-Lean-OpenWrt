@@ -23,7 +23,7 @@ on:
 
 env:
   REPO_URL: https://github.com/happymukey/lede
-  REPO_BRANCH: mumu
+  REPO_BRANCH: 4.19
   CONFIG_FILE: 0328.config
   DIY_SH: diy.sh
   FREE_UP_DISK: false
