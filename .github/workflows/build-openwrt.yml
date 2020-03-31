@@ -15,7 +15,7 @@ on:
     branches:
       - master
     paths:
-      - '0328.config'
+      - '0331.config'
 #  schedule:
 #    - cron: 0 8 * * 5
   watch:
